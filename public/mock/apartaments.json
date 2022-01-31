@@ -1,0 +1,27 @@
+[
+  {
+    "location": "Suceava",
+    "maxPeople": 4,
+    "id": 1
+  },
+  {
+    "location": "Cluj",
+    "maxPeople": 2,
+    "id": 2
+  },
+  {
+    "location": "Botosani",
+    "maxPeople": 4,
+    "id": 3
+  },
+  {
+    "location": "Iasi",
+    "maxPeople": 6,
+    "id": 4
+  },
+  {
+    "location": "Bucuresti",
+    "maxPeople": 6,
+    "id": 5
+  }
+]
